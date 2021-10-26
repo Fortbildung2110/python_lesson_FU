@@ -1,5 +1,6 @@
 # Python lessons
 
-##Author: Nicklas
+##Author: Nicklas Lauinger
+
 
 
